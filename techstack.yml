@@ -1,0 +1,65 @@
+repo_name: chalisin/mulesoft-docs
+report_id: 00de1d600bf53a36e925e9cdb6198097
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-28T14:38:17+00:00'
+requested_by: fermujica
+provider: github
+branch: master
+detected_tools_count: 5
+tools:
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/chalisin/mulesoft-docs
+  detection_source: Repo Metadata
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/chalisin/mulesoft-docs/blob/master/mule-user-guide/v/3.6/_attachments/create.sample.db.sql
+  detection_source: mule-user-guide/v/3.6/_attachments/create.sample.db.sql
+  last_updated_by: Nicolas Earnshaw
+  last_updated_on: 2015-10-29 15:52:49.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/chalisin/mulesoft-docs
+  detection_source: Repo Metadata
+- name: RAML
+  description: RESTful API Modeling Language (RAML) makes it easy to manage the whole
+    API lifecycle from design to sharing
+  website_url: http://raml.org/
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: API Tools
+  image_url: https://img.stackshare.io/service/4083/JSGv7dnx.png
+  detection_source_url: https://github.com/chalisin/mulesoft-docs
+  detection_source: Repo Metadata
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/chalisin/mulesoft-docs
+  detection_source: Repo Metadata
